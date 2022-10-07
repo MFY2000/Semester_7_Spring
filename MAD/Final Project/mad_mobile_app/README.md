@@ -4,4 +4,6 @@ A new Flutter project - Ecommerce app done for interview task. This app helps to
 
 ## Getting Started
 
-![Screenshot_2021_1003_113644](ScreenShot/1st%20Week/bandicam%202022-10-07%2010-31-50-950.mp4)
+<img alt="first Week changes" src="./ScreenShot/1st%20Week/bandicam%202022-10-07%2010-31-50-950.mp4">
+
+![Screenshot_2021_1003_113644](https://user-images.githubusercontent.com/ScreenShot/1st%20Week/bandicam%202022-10-07%2010-31-50-950.mp4)
