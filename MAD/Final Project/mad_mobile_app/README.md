@@ -1,16 +1,7 @@
-# mad_mobile_app
+# mad_mobile_app - Rest Api + Provider + Heart Icon Animation + Add To Cart + Full Cart features.
 
-A new Flutter project.
+A new Flutter project - Ecommerce app done for interview task. This app helps to show product items in well structured and nice UI design. App is build upon REST api with Provider package. User can add products to cart and also calculate price. Love animation included for picking favorite.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_2021_1003_113644](https://user-images.githubusercontent.com/69787389/135742915-d29fa7ff-3561-4bb0-a968-6693369a03fe.jpg)
