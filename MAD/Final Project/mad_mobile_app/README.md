@@ -4,4 +4,4 @@ A new Flutter project - Ecommerce app done for interview task. This app helps to
 
 ## Getting Started
 
-![Screenshot_2021_1003_113644](https://user-images.githubusercontent.com/69787389/135742915-d29fa7ff-3561-4bb0-a968-6693369a03fe.jpg)
+![Screenshot_2021_1003_113644](ScreenShot/1st%20Week/bandicam%202022-10-07%2010-31-50-950.mp4)
